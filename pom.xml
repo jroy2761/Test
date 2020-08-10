@@ -34,7 +34,7 @@
 					<testFailureIgnore>false</testFailureIgnore>
 					<printSummary>true</printSummary>
 					<suiteXmlFiles>
-						<suiteXmlFile>${basedir}/src/test/java/testNG.xml</suiteXmlFile>
+						<suiteXmlFile>${basedir}/testNG.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
