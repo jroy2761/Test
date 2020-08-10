@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16751" started-at="2020-08-10T11:57:38Z" finished-at="2020-08-10T11:57:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16751" started-at="2020-08-10T11:57:38Z" finished-at="2020-08-10T11:57:54Z">
+      <class name="uiTest.WebAppTest">
+        <test-method status="PASS" signature="orangehrm(java.lang.String, java.lang.String)[pri:0, instance:uiTest.WebAppTest@6e06451e]" name="orangehrm" duration-ms="16469" started-at="2020-08-10T17:27:38Z" data-provider="WebApp" finished-at="2020-08-10T17:27:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://20.185.89.187:8080/sample/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- orangehrm -->
+      </class> <!-- uiTest.WebAppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

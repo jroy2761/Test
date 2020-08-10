@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test">
+		<classes>
+			<class name="uiTest.WebAppTest" />
+		</classes>
+	</test> <!-- Test -->
+	<listeners>
+		<listener class-name="selenium_framework.ReportsListener" />
+		<listener
+			class-name="selenium_framework.ConfigurationListener" />
+		<listener class-name="selenium_framework.MethodListener" />
+	</listeners>
+</suite> <!-- Suite -->

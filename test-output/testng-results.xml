@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+    <line>
+      <![CDATA[STEP2]]>
+    </line>
+    <line>
+      <![CDATA[STEP3]]>
+    </line>
+    <line>
+      <![CDATA[STEP4]]>
+    </line>
+    <line>
+      <![CDATA[STEP5]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="495" started-at="2019-08-07T09:35:29Z" finished-at="2019-08-07T09:35:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="495" started-at="2019-08-07T09:35:29Z" finished-at="2019-08-07T09:35:29Z">
+      <class name="dbTest.Dbtest">
+        <test-method status="PASS" signature="f()[pri:0, instance:dbTest.Dbtest@50b494a6]" name="f" duration-ms="473" started-at="2019-08-07T09:35:29Z" finished-at="2019-08-07T09:35:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+            <line>
+              <![CDATA[STEP2]]>
+            </line>
+            <line>
+              <![CDATA[STEP3]]>
+            </line>
+            <line>
+              <![CDATA[STEP4]]>
+            </line>
+            <line>
+              <![CDATA[STEP5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- dbTest.Dbtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

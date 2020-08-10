@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="selenium_framework.ReportsListener"/>
+    <listener class-name="selenium_framework.ConfigurationListener"/>
+    <listener class-name="selenium_framework.MethodListener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="uiTest.HrmAddemployeeTest">
+        <methods>
+          <include name="orangehrm"/>
+        </methods>
+      </class> <!-- uiTest.HrmAddemployeeTest -->
+      <class name="apiTest.JiraIssueCreate">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- apiTest.JiraIssueCreate -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

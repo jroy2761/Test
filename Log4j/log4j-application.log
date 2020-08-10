@@ -1,0 +1,277 @@
+2019-07-03 07:07:36 INFO  DbUtils:65 - the Input Values:rootsabya@1234MySQLlocalhost:3306/test
+2019-07-03 07:11:18 INFO  DbUtils:65 - the Input Values:rootsabya@1234MySQLlocalhost:3306/test
+2019-07-03 07:11:18 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false
+2019-07-03 07:23:13 INFO  DbUtils:66 - the Input Values:rootsabya@1234MySQLlocalhost:3306/test
+2019-07-03 07:23:13 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false
+2019-07-03 07:27:52 INFO  DbUtils:66 - the Input Values:root sabya@1234 MySQL localhost:3306/test
+2019-07-03 07:27:52 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false
+2019-07-03 07:46:37 INFO  DbUtils:66 - the Input Values:root sabya@1234 MySQL localhost:3306/test
+2019-07-03 07:46:37 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&maxReconnects=10
+2019-07-03 08:44:44 INFO  DbUtils:66 - the Input Values:root sabya@1234 MySQL localhost:3306/test
+2019-07-03 08:44:44 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&maxReconnects=10
+2019-07-03 11:06:58 INFO  DbUtils:66 - the Input Values:root sabya@1234 MySQL localhost:3306/test
+2019-07-03 11:06:58 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&maxReconnects=10
+2019-07-03 11:17:02 INFO  DbUtils:66 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-03 11:17:02 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&maxReconnects=10
+2019-07-17 06:57:15 INFO  AUTBaseTest:3169 - The Sauce values are:http://ankush1392:399ad67c-837b-49e7-8a1b-080b74f57d3e@ondemand.saucelabs.com:80/wd/hub
+2019-07-17 07:02:37 INFO  AUTBaseTest:3169 - The Sauce values are:http://ankush1392:399ad67c-837b-49e7-8a1b-080b74f57d3e@ondemand.saucelabs.com:80/wd/hub
+2019-07-17 07:15:09 INFO  AUTBaseTest:3169 - The Sauce values are:http://ankush1392:399ad67c-837b-49e7-8a1b-080b74f57d3e@ondemand.saucelabs.com:80/wd/hub
+2019-07-17 07:18:55 INFO  AUTBaseTest:3169 - The Sauce values are:http://ankush1392:399ad67c-837b-49e7-8a1b-080b74f57d3e@ondemand.saucelabs.com:80/wd/hub
+2019-07-18 02:11:32 INFO  AUTBaseTest:3169 - The Sauce values are:http://snag1234:55c366f2-df46-4510-addd-e31173192c16@ondemand.saucelabs.com:80/wd/hub
+2019-07-18 05:45:42 INFO  DbUtils:66 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-18 05:45:42 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&maxReconnects=10
+2019-07-18 05:47:33 INFO  DbUtils:66 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-18 05:47:33 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&maxReconnects=10
+2019-07-18 05:56:15 INFO  DbUtils:66 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-18 05:56:15 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&maxReconnects=10
+2019-07-18 06:12:47 INFO  DbUtils:66 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-18 06:12:47 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-18 06:20:33 INFO  DbUtils:66 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-18 06:20:33 INFO  DbUtils:100 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-18 06:20:33 INFO  Dbtest:30 - the values are::[102]||[testdata]
+2019-07-19 05:51:27 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-19 05:51:27 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-19 05:52:03 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-19 05:52:03 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-19 05:52:04 INFO  Dbtest:30 - the values are::[102, 103]||[testdata, testdata1]
+2019-07-19 08:16:07 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-19 08:16:07 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-19 08:16:07 INFO  Dbtest:30 - the values are::[102, 103]||[testdata, testdata1]
+2019-07-19 08:24:45 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-19 08:24:45 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-19 08:24:45 INFO  Dbtest:30 - the values are::null||null
+2019-07-19 10:27:49 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-19 10:27:49 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-19 10:27:49 INFO  Dbtest:30 - the values are::[102, 103]||[testdata, testdata1]
+2019-07-22 05:17:08 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-22 05:17:09 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-22 05:18:11 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-22 05:18:11 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-22 05:18:11 INFO  Dbtest:30 - the values are::[102, 103]||[testdata, testdata1]
+2019-07-24 07:17:02 INFO  AUTBaseTest:1571 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 07:17:06 INFO  AUTBaseTest:1571 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 07:17:29 INFO  AUTBaseTest:1571 - The valueJasonsent to the textbox:firstName
+2019-07-24 07:17:33 INFO  AUTBaseTest:1571 - The valueRoysent to the textbox:lastName
+2019-07-24 07:17:40 INFO  AUTBaseTest:1571 - The valueJsr03sent to the textbox:user_name
+2019-07-24 07:17:45 INFO  AUTBaseTest:1571 - The valueJohfra123sent to the textbox:user_password
+2019-07-24 07:17:49 INFO  AUTBaseTest:1571 - The valueJohfra123sent to the textbox:re_password
+2019-07-24 08:33:45 INFO  AUTBaseTest:1571 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 08:33:50 INFO  AUTBaseTest:1571 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 08:34:30 INFO  AUTBaseTest:1571 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 08:34:35 INFO  AUTBaseTest:1571 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 08:55:27 INFO  AUTBaseTest:1571 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 08:55:32 INFO  AUTBaseTest:1571 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 08:58:24 INFO  AUTBaseTest:1571 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 08:58:28 INFO  AUTBaseTest:1571 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 09:04:23 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 09:04:28 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 09:04:44 INFO  AUTBaseTest:1578 - The valueWillsent to the textbox:firstName
+2019-07-24 09:04:46 INFO  AUTBaseTest:1578 - The valueSmithsent to the textbox:lastName
+2019-07-24 09:04:49 INFO  AUTBaseTest:1578 - The valuews01sent to the textbox:user_name
+2019-07-24 09:04:52 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-24 09:04:54 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-24 09:05:07 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 09:05:11 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 09:05:27 INFO  AUTBaseTest:1578 - The valueWillsent to the textbox:firstName
+2019-07-24 09:05:30 INFO  AUTBaseTest:1578 - The valueSmithsent to the textbox:lastName
+2019-07-24 09:05:32 INFO  AUTBaseTest:1578 - The valuews01sent to the textbox:user_name
+2019-07-24 09:05:35 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-24 09:05:37 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-24 09:08:02 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 09:08:07 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 09:08:23 INFO  AUTBaseTest:1578 - The valueBradsent to the textbox:firstName
+2019-07-24 09:08:25 INFO  AUTBaseTest:1578 - The valuePittsent to the textbox:lastName
+2019-07-24 09:08:28 INFO  AUTBaseTest:1578 - The valuebrp001sent to the textbox:user_name
+2019-07-24 09:08:30 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-24 09:08:33 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-24 09:08:42 INFO  AUTBaseTest:1578 - The value0021sent to the textbox:empsearch_id
+2019-07-24 09:09:03 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-24 09:09:08 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-24 09:09:24 INFO  AUTBaseTest:1578 - The valueBradsent to the textbox:firstName
+2019-07-24 09:09:26 INFO  AUTBaseTest:1578 - The valuePittsent to the textbox:lastName
+2019-07-24 09:09:29 INFO  AUTBaseTest:1578 - The valuebrp001sent to the textbox:user_name
+2019-07-24 09:09:32 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-24 09:09:34 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-24 09:15:11 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-24 09:15:11 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-24 09:16:37 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-24 09:16:37 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-24 09:16:38 INFO  Dbtest:30 - the values are::[102, 103]||[testdata, testdata1]
+2019-07-25 10:06:27 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/employee
+2019-07-25 10:06:27 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/employee?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 10:06:28 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/employee
+2019-07-25 10:06:28 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/employee?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 10:21:01 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 10:21:01 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 10:21:01 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 10:21:01 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 10:21:01 INFO  Dbtest:28 - the values are::[David, kevin, Jess, Shub]
+2019-07-25 10:41:56 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 10:41:56 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 10:41:56 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 10:41:56 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 10:41:56 INFO  Dbtest:30 - the values are::[David, kevin, Jess, Shub, Johan]
+2019-07-25 10:54:40 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 10:54:40 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 10:54:41 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 10:54:41 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 10:54:41 INFO  Dbtest:35 - the values are::[David, kevin, Jess, Shub, Johan, Sourav]
+2019-07-25 11:01:17 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 11:01:17 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 11:01:18 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 11:01:18 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 11:01:18 INFO  Dbtest:35 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav]
+2019-07-25 12:32:15 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 12:32:15 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 12:32:16 INFO  Dbtest:35 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav]
+2019-07-25 12:32:45 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 12:32:45 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 12:32:46 INFO  Dbtest:35 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav]
+2019-07-25 12:36:58 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 12:36:58 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 12:36:59 INFO  Dbtest:35 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav]
+2019-07-25 12:39:02 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 12:39:02 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 12:39:02 INFO  Dbtest:35 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav]
+2019-07-25 12:40:29 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 12:40:29 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 12:40:30 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 12:40:30 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 12:40:30 INFO  Dbtest:35 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin]
+2019-07-25 15:24:59 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-25 15:25:04 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-25 15:25:20 INFO  AUTBaseTest:1578 - The valueBradsent to the textbox:firstName
+2019-07-25 15:25:22 INFO  AUTBaseTest:1578 - The valuePittsent to the textbox:lastName
+2019-07-25 15:25:25 INFO  AUTBaseTest:1578 - The valuebrp001sent to the textbox:user_name
+2019-07-25 15:25:28 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-25 15:25:30 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-25 15:25:39 INFO  AUTBaseTest:1578 - The value0026sent to the textbox:empsearch_id
+2019-07-25 15:26:01 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-25 15:26:06 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-25 15:26:22 INFO  AUTBaseTest:1578 - The valueBradsent to the textbox:firstName
+2019-07-25 15:26:24 INFO  AUTBaseTest:1578 - The valuePittsent to the textbox:lastName
+2019-07-25 15:26:27 INFO  AUTBaseTest:1578 - The valuebrp001sent to the textbox:user_name
+2019-07-25 15:26:30 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-25 15:26:33 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-25 15:26:43 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 15:26:43 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-25 15:26:47 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-25 15:26:47 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 03:29:03 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 03:29:03 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 03:29:03 INFO  Dbtest:35 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin]
+2019-07-26 03:30:07 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 03:30:07 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 03:30:07 INFO  Dbtest:36 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin]
+2019-07-26 03:32:47 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 03:32:47 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 03:32:48 INFO  Dbtest:36 - the values are::[David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin]
+2019-07-26 04:22:31 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 04:22:31 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 04:25:26 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 04:25:26 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 04:27:42 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 04:27:42 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 04:29:33 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 04:29:33 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 04:31:46 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 04:31:46 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 04:32:55 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 04:32:55 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 04:40:53 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 04:40:53 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 04:40:54 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 04:40:54 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 05:13:00 INFO  Dbtest:39 - 'insert into employeedetails values''('9','Anil','40');'
+2019-07-26 05:13:58 INFO  Dbtest:39 - 'insert into employeedetails values ('9','Anil','40');'
+2019-07-26 05:14:11 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 05:14:11 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 05:16:47 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 05:16:47 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 05:16:55 INFO  Dbtest:47 - [David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin, Dhoni]
+2019-07-26 05:20:30 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 05:20:30 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 05:20:30 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-26 05:20:30 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-26 05:20:30 INFO  Dbtest:41 - [David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin, Dhoni, Dhoni]
+2019-07-30 05:45:24 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-30 05:45:29 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-30 05:45:45 INFO  AUTBaseTest:1578 - The valueTomsent to the textbox:firstName
+2019-07-30 05:45:48 INFO  AUTBaseTest:1578 - The valueHankssent to the textbox:lastName
+2019-07-30 05:45:51 INFO  AUTBaseTest:1578 - The valueTm007sent to the textbox:user_name
+2019-07-30 05:45:53 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-30 05:45:56 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-30 05:46:05 INFO  AUTBaseTest:1578 - The value0015sent to the textbox:empsearch_id
+2019-07-30 05:46:34 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-30 05:46:38 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-30 05:46:55 INFO  AUTBaseTest:1578 - The valueTomsent to the textbox:firstName
+2019-07-30 05:46:58 INFO  AUTBaseTest:1578 - The valueHankssent to the textbox:lastName
+2019-07-30 05:47:00 INFO  AUTBaseTest:1578 - The valueTm007sent to the textbox:user_name
+2019-07-30 05:47:03 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-30 05:47:06 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-30 05:47:12 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-30 05:47:12 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-30 05:47:17 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-30 05:47:17 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-30 06:11:47 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-30 06:11:52 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-30 06:12:13 INFO  AUTBaseTest:1578 - The valueTomsent to the textbox:firstName
+2019-07-30 06:12:16 INFO  AUTBaseTest:1578 - The valueHankssent to the textbox:lastName
+2019-07-30 06:12:19 INFO  AUTBaseTest:1578 - The valueTm007sent to the textbox:user_name
+2019-07-30 06:12:21 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-30 06:12:24 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-30 06:12:38 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-30 06:12:43 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-30 06:12:59 INFO  AUTBaseTest:1578 - The valueTomsent to the textbox:firstName
+2019-07-30 06:13:01 INFO  AUTBaseTest:1578 - The valueHankssent to the textbox:lastName
+2019-07-30 06:13:04 INFO  AUTBaseTest:1578 - The valueTm007sent to the textbox:user_name
+2019-07-30 06:13:07 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:user_password
+2019-07-30 06:13:09 INFO  AUTBaseTest:1578 - The valueJohfra123sent to the textbox:re_password
+2019-07-30 06:13:15 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-30 06:13:15 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-30 06:13:26 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-30 06:13:26 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-30 06:13:26 INFO  Dbtest:41 - [David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin, Dhoni, Dhoni, Dhoni, Dhoni, Dhoni, Virat]
+2019-07-30 11:28:34 INFO  DefaultHttpClient:695 - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://23.101.186.236:8000: \Resources\17.PNG (The system cannot find the path specified)
+2019-07-30 11:28:34 INFO  DefaultHttpClient:705 - Retrying request to {}->http://23.101.186.236:8000
+2019-07-30 11:28:34 INFO  DefaultHttpClient:695 - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://23.101.186.236:8000: \Resources\17.PNG (The system cannot find the path specified)
+2019-07-30 11:28:34 INFO  DefaultHttpClient:705 - Retrying request to {}->http://23.101.186.236:8000
+2019-07-30 11:28:34 INFO  DefaultHttpClient:695 - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://23.101.186.236:8000: \Resources\17.PNG (The system cannot find the path specified)
+2019-07-30 11:28:34 INFO  DefaultHttpClient:705 - Retrying request to {}->http://23.101.186.236:8000
+2019-07-30 16:10:56 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-30 16:11:01 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-30 16:11:34 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-30 16:11:39 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-30 16:25:48 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-30 16:25:52 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-30 16:26:18 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-30 16:26:21 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-31 06:59:16 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-31 06:59:20 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-31 07:06:25 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-31 07:06:29 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-31 07:28:29 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-31 07:28:33 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-31 07:28:48 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-31 07:28:52 INFO  AUTBaseTest:1578 - The valueadmin1234sent to the textbox:txtPassword
+2019-07-31 08:40:59 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-31 08:41:03 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
+2019-07-31 08:41:18 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2019-07-31 08:41:22 INFO  AUTBaseTest:1578 - The valueadmin1234sent to the textbox:txtPassword
+2019-07-31 08:41:45 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-31 08:41:45 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-31 08:41:45 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-07-31 08:41:45 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-07-31 08:41:45 INFO  Dbtest:41 - [David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin, Dhoni, Dhoni, Dhoni, Dhoni, Dhoni, Virat, Virat]
+2019-08-07 08:55:46 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-08-07 08:55:47 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-08-07 08:55:48 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-08-07 08:55:48 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-08-07 08:55:48 INFO  Dbtest:41 - [David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin, Dhoni, Dhoni, Dhoni, Dhoni, Dhoni, Virat, Virat, Virat]
+2019-08-07 09:35:29 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-08-07 09:35:29 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-08-07 09:35:29 INFO  DbUtils:65 - the Input Values:root Sabya@1234 MySQL localhost:3306/test
+2019-08-07 09:35:29 INFO  DbUtils:99 - url isjdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false&serverTimezone=UTC
+2019-08-07 09:35:29 INFO  Dbtest:41 - [David, kevin, Jess, Shub, Johan, Sourav, Sourav, Sachin, Dhoni, Dhoni, Dhoni, Dhoni, Dhoni, Virat, Virat, Virat, Virat]
+2020-08-10 17:05:11 INFO  AUTBaseTest:1578 - The valueAdminsent to the textbox:txtUsername
+2020-08-10 17:05:15 INFO  AUTBaseTest:1578 - The valueadmin123sent to the textbox:txtPassword
